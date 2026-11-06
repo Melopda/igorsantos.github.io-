@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 528 328">
+  <g fill="none" stroke="#a5a5a5" stroke-width="1.6" stroke-linecap="round">
+    <path d="M184 209 223 154m121 55-39-55M113 154l32-51m78 51-27-51m27 51 26-51m56 51-26-51m26 51 26-51m84 51-32-51"/>
+    <path d="M145 103l-10-28m10 28 12-28m39 28-10-28m10 28 11-28m42 28-11-28m11 28 9-28m21 28-9-28m9 28 11-28m41 28-10-28m10 28 11-28m41 28-12-28m12 28 10-28M69 103l14-28m376 28-14-28" stroke-dasharray="2.5 5"/>
+  </g>
+  <g fill="none" stroke-width="2.4" stroke-linecap="round">
+    <path d="M264 270 184 209 113 154 69 103 49 67" stroke="#202020"/>
+    <path d="M264 270 344 209 415 154 459 103 479 67" stroke="#565656"/>
+    <path d="M49 67l-9-16" stroke="#202020" stroke-dasharray="2 5"/>
+    <path d="M479 67l9-16" stroke="#565656" stroke-dasharray="2 5"/>
+  </g>
+  <g fill="#a5a5a5">
+    <circle cx="223" cy="154" r="4"/><circle cx="305" cy="154" r="4"/>
+    <circle cx="145" cy="103" r="3.5"/><circle cx="196" cy="103" r="3.5"/>
+    <circle cx="249" cy="103" r="3.5"/><circle cx="279" cy="103" r="3.5"/>
+    <circle cx="331" cy="103" r="3.5"/><circle cx="383" cy="103" r="3.5"/>
+  </g>
+  <g fill="#202020">
+    <circle cx="184" cy="209" r="5"/><circle cx="113" cy="154" r="5"/><circle cx="69" cy="103" r="4.5"/><circle cx="49" cy="67" r="3.5"/>
+  </g>
+  <g fill="#565656">
+    <circle cx="344" cy="209" r="5"/><circle cx="415" cy="154" r="5"/><circle cx="459" cy="103" r="4.5"/><circle cx="479" cy="67" r="3.5"/>
+  </g>
+  <circle cx="264" cy="270" r="6" fill="#202020"/>
+  <g font-family="system-ui, sans-serif" font-size="19" font-style="italic">
+    <text x="53" y="46" fill="#202020">R₀</text>
+    <text x="475" y="46" fill="#565656" text-anchor="end">R₁</text>
+    <text x="264" y="300" fill="#202020" text-anchor="middle">r</text>
+  </g>
+</svg>

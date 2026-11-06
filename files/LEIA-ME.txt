@@ -1,0 +1,2 @@
+Coloque aqui os PDFs que deseja publicar. Use nomes simples, como meu-artigo.pdf,
+e vincule cada arquivo pelo index.html, por exemplo href="files/meu-artigo.pdf".
